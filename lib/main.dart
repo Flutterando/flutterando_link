@@ -5,6 +5,7 @@ import 'app/injector.dart';
 
 void main() {
   setupInjection();
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(
     const AppWidget(),
   );
