@@ -1,22 +1,36 @@
 {
     "title": "Flutterando",
     "subtitle": "Comunidade de Flutter",
-    "logo": "",
-    "background_color": "#FFFFFF",
+    "logo": "/images/flutterando-logo.jpg",
+    "background_color": "#CDCDCD",
     "text_color": "#000000",
-    "button_color": "#000000",
+    "button_color": "#FFFFFF",
     "links": [
         {
             "title": "YouTube",
             "url": "https://www.youtube.com/c/Flutterando",
-            "icon": "",
+            "icon": "/icons/youtube.svg",
             "background_color": "#FFFFFF",
             "text_color": "#000000"
         },
         {
-            "title": "YouTube",
+            "title": "Discord",
+            "url": "https://www.discord.flutterando.com.br",
+            "icon": "/icons/discord.svg",
+            "background_color": "#FFFFFF",
+            "text_color": "#000000"
+        },
+        {
+            "title": "Instagram",
+            "url": "https://www.instagram.com/flutterando/",
+            "icon": "/icons/instagram.svg",
+            "background_color": "#FFFFFF",
+            "text_color": "#000000"
+        },
+        {
+            "title": "LinkedIn",
             "url": "https://www.youtube.com/c/Flutterando",
-            "icon": "",
+            "icon": "/icons/linkedin.svg",
             "background_color": "#FFFFFF",
             "text_color": "#000000"
         }
