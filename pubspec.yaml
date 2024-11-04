@@ -29,4 +29,5 @@ flutter:
 
   assets:
     - assets/body.json
+    - assets/images/
 
