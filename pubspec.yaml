@@ -16,6 +16,8 @@ dependencies:
   result_dart: ^1.1.1
   asp: ^2.0.3
   dson_adapter: ^1.2.0+2
+  flutter_svg: ^2.0.11
+  logger: ^2.4.0
 
 dev_dependencies:
   flutter_test:
@@ -30,4 +32,5 @@ flutter:
   assets:
     - assets/body.json
     - assets/images/
+    - assets/icons/
 
