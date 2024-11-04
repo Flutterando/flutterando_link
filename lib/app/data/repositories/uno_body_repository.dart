@@ -1,8 +1,8 @@
 import 'package:dson_adapter/dson_adapter.dart';
-import 'package:flutterando_link/app/interactor/exceptions/exceptions.dart';
-import 'package:flutterando_link/app/interactor/models/body_model.dart';
-import 'package:flutterando_link/app/interactor/models/link_model.dart';
-import 'package:flutterando_link/app/interactor/repositories/body_repository.dart';
+import '../../interactor/exceptions/exceptions.dart';
+import '../../interactor/models/body_model.dart';
+import '../../interactor/models/link_model.dart';
+import '../../interactor/repositories/body_repository.dart';
 import 'package:result_dart/result_dart.dart';
 
 import '../datasources/body_datasource.dart';

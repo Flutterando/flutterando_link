@@ -1,7 +1,8 @@
 import 'dart:convert';
 
 import 'package:flutter/services.dart';
-import 'package:flutterando_link/app/data/datasources/body_datasource.dart';
+
+import 'body_datasource.dart';
 
 class LocalBodyDatasource implements BodyDatasource {
   @override

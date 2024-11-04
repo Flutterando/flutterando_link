@@ -1,7 +1,8 @@
 import 'package:asp/asp.dart';
-import 'package:flutterando_link/app/interactor/exceptions/exceptions.dart';
-import 'package:flutterando_link/app/interactor/states/body_state.dart';
 import 'package:result_dart/result_dart.dart';
+
+import '../exceptions/exceptions.dart';
+import '../states/body_state.dart';
 
 extension ResultExtension<S extends Object, F extends BodyException> on Result<S, F> {
   Result<S, F> updateState(SetState set, Atom<S> atom) {
