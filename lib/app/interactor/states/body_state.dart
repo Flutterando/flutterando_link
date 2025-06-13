@@ -1,6 +1,6 @@
 import 'package:asp/asp.dart';
-import 'package:flutterando_link/app/interactor/exceptions/exceptions.dart';
 
+import '../exceptions/exceptions.dart';
 import '../models/body_model.dart';
 
 final bodyState = atom<BodyModel>(EmptyBodyModel());
